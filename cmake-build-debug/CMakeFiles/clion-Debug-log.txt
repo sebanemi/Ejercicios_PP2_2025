@@ -1,0 +1,4 @@
+/app/extra/clion/bin/cmake/linux/x64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "Unix Makefiles" -S /home/seba/CLionProjects/Ejercicios_PP2_2025 -B /home/seba/CLionProjects/Ejercicios_PP2_2025/cmake-build-debug
+-- Configuring done (0.1s)
+-- Generating done (0.1s)
+-- Build files have been written to: /home/seba/CLionProjects/Ejercicios_PP2_2025/cmake-build-debug

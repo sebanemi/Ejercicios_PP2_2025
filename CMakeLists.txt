@@ -1,4 +1,4 @@
-cmake_minimum_required(VERSION 4.0)
+cmake_minimum_required(VERSION 3.30.5)
 project(Ejercicios_PP2_2025)
 
 set(CMAKE_CXX_STANDARD 20)
@@ -14,4 +14,5 @@ add_executable(Ejercicios_PP2_2025 main.cpp
         GuiaUnidad2/Eje007.cpp
         GuiaUnidad2/Eje008.cpp
         GuiaUnidad2/Eje009.cpp
+        Clases/08-09-2025.cpp
 )
