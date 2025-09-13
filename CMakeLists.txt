@@ -23,4 +23,6 @@ add_executable(Ejercicios_PP2_2025 main.cpp
         GuiaUnidad4/Eje006.cpp
         GuiaUnidad4/Eje007.cpp
         GuiaUnidad4/Eje008.cpp
+        GuiaUnidad4/Eje009.cpp
+        GuiaUnidad4/Eje010.cpp
 )
